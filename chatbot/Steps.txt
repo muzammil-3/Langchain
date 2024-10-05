@@ -1,0 +1,2 @@
+1. install langchain, streamlit, ollama (from the website)
+2. On langchain smith we can track our project, open langchain smith
